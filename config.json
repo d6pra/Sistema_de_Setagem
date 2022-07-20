@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "prefix": "+",
+    "server": {
+        "imagemserver": ""
+    },
+    "mysql": {
+        "database": "",
+        "host": "",
+        "user": "",
+        "password": "",
+        "port": ""
+    }
+}
